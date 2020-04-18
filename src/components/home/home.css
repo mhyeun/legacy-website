@@ -1,0 +1,46 @@
+#home {
+  margin-top: 0;
+  text-align: center;
+}
+
+#intro {
+  margin-top: 12vh;
+  display: inline-block;
+  color: black;
+}
+
+#me {
+  border-radius: 50%;
+}
+
+#intro > #name {
+  color: #800020;
+}
+
+#logos {
+  padding: 0;
+  list-style: none;
+  list-style-type: none;
+  margin-top: 3vh;
+}
+
+#logos > li {
+  display: inline;
+}
+
+.logo {
+  width: 40px;
+  margin: auto;
+  margin: 0 1.8vw;
+}
+
+h1 {
+  margin: 0;
+}
+
+/* Tooltip animations */
+
+.tooltip {
+  position: relative;
+  display: inline-block;
+}

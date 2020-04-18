@@ -1,0 +1,11 @@
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+SC&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+#main {
+  padding-top: calc(38px + 4vh);
+  font-family: "Noto Sans SC", sans-serif;
+  background-color: white;
+}
