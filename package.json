@@ -14,7 +14,7 @@
     "react-reveal": "^1.2.2",
     "react-scripts": "3.4.1"
   },
-  "homepage": "https://mhyeun.github.io",
+  "homepage": "https://mhyeun.github.io/legacy-website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
